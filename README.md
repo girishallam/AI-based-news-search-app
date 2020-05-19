@@ -5,11 +5,11 @@ In this project, you’ll start with the basics and build your own news mining w
 
 To do this, you’ll:
 
-Build a Server Side Application using Node-RED
-Use the pre-built Watson Discovery News collection
-Access the Watson Discovery Service through the Discovery API
-Optionally, you can choose to:
+1.Build a Server Side Application using Node-RED
+2.Use the pre-built Watson Discovery News collection
+3.Access the Watson Discovery Service through the Discovery API
 
+Optionally, you can choose to:
 Use a Slack interface to query the data
 Push news alerts out to web notification
 Deploy the app on IBM Cloud
