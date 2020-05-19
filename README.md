@@ -14,7 +14,7 @@ Use a Slack interface to query the data
 Push news alerts out to web notification
 Deploy the app on IBM Cloud
 
-![]C:/Users/Durga Allam/Desktop/download.png
+![download](https://user-images.githubusercontent.com/60657607/82327218-af977080-99fb-11ea-9aa2-b703ec8bb159.jpg)
 
 The user interacts with the app UI(Built with Node-RED or Cloud or Local) to request relevant news content.
 The app sends user requests to Watson Discovery News.
